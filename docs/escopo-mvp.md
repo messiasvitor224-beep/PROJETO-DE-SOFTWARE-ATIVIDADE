@@ -3,7 +3,7 @@
 ## Origem da demanda
 A demanda foi levantada em conversa semiestruturada com Rodrigo, sócio principal da Megapcnet, complementada por observação contextual e pela experiência anterior do aluno em instalação de internet/telecomunicações na região de Perus (São Paulo).
 
-A data exata da entrevista e o sobrenome do contato permanecem pendentes de confirmação. Não preencher esses dados por suposição.
+A data exata da entrevista e o sobrenome do contato permanecem pendentes de autorização de uso para essa atividade.
 
 ## Problema observado
 - Reclamações de perda de sinal e instabilidade.
