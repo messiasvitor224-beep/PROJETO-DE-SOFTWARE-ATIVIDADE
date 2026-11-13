@@ -1,0 +1,7 @@
+# Versões alinhadas às decisões técnicas do planejamento.
+# Validar compatibilidade e atualizar versões durante a implementação.
+Django>=5.2,<5.3
+psycopg[binary]>=3.2,<4
+gunicorn>=23,<24
+pytest>=8,<9
+pytest-django>=4,<5
